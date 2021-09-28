@@ -5,3 +5,4 @@ No error handling so have fun.
 # Requirements
 - Node & NPM
   - `npm install chalk | npm install puppeteer`
+  - `node index.js`
